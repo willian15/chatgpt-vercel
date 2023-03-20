@@ -7,5 +7,5 @@ export const defaultSetting = {
 }
 
 export const defaultMessage = `
-- 填入自己的 key 才可使用。
-- **Shift+Enter** 换行。开头输入 **/** 或者 **空格** 搜索 Prompt 预设。点击输入框滚动到底部。`
+- 点击设置，输入自己的 key 才可使用。
+- **Shift+Enter** 换行。在输入框的开头输入 **/** 或者 **空格** 搜索 Prompt 预设。`
